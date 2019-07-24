@@ -1,0 +1,5 @@
+main: me.machinemaker.damagemultipliers.DamageMultipliers
+name: DamageMultipliers
+version: 0.0.1
+description: Permissions to modify damage for different objects
+author: Machine Maker
